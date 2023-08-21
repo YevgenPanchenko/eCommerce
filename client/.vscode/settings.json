@@ -3,5 +3,6 @@
   "turboConsoleLog.addSemicolonInTheEnd": true,
   "turboConsoleLog.logMessagePrefix": "",
   "turboConsoleLog.logMessageSuffix": "",
-  "turboConsoleLog.delimiterInsideMessage": ""
+  "turboConsoleLog.delimiterInsideMessage": "",
+  "cSpell.words": ["Formik"]
 }
